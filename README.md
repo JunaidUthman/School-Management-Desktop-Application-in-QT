@@ -1,1 +1,1 @@
-this is School Management Desktop Application built in the framework QT/C++
+this is School Management Desktop Application built in the QT/C++ framework
